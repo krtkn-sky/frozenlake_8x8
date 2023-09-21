@@ -6,6 +6,8 @@ This code implements Q-Learning to solve the Frozen Lake 8x8 environment in Open
 
 The Frozen Lake environment is a grid world where the agent must navigate from a starting point to a goal while avoiding holes. Q-Learning is used to train the agent to make optimal decisions based on rewards received for each action.
 
+file:///home/aakash/Videos/Screencasts/Screencast%20from%2021-09-23%2002:47:31%20PM%20IST.webm
+
 ## Prerequisites
 
 Before running the code, make sure you have the following libraries installed:
