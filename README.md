@@ -31,5 +31,5 @@ To run the code, use the run function in the main script. You can configure the 
 
 ```bash
 if __name__ == '__main__':
-    run(episodes=1000, is_training=True, render=True)```
+    run(episodes=1000, is_training=True, render=True)
 
