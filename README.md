@@ -23,9 +23,9 @@ pip install gym numpy matplotlib
 
 To run the code, use the run function in the main script. You can configure the following parameters:
 
--episodes: The number of training episodes.
--is_training: Set to True to train the agent, False to load a pre-trained model.
--render: Set to True to visualize the training process.
+- episodes: The number of training episodes.
+- is_training: Set to True to train the agent, False to load a pre-trained model.
+- render: Set to True to visualize the training process.
 
 ### Example usage:
 
