@@ -32,4 +32,7 @@ To run the code, use the run function in the main script. You can configure the 
 ```bash
 if __name__ == '__main__':
     run(episodes=1000, is_training=True, render=True)
+```
+## Result
 
+![image](https://github.com/krtkn-sky/frozenlake_8x8/assets/121655285/75d507a9-574d-483a-8edb-083eff748184)
