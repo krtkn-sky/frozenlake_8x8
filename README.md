@@ -19,7 +19,7 @@ You can install these libraries using `pip`:
 ```bash
 pip install gym numpy matplotlib
 ```
-##Usage
+## Usage
 
 To run the code, use the run function in the main script. You can configure the following parameters:
 
@@ -27,7 +27,7 @@ To run the code, use the run function in the main script. You can configure the 
 -is_training: Set to True to train the agent, False to load a pre-trained model.
 -render: Set to True to visualize the training process.
 
-###Example usage:
+### Example usage:
 
 ```bash
 if __name__ == '__main__':
